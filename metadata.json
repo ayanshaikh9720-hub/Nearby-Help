@@ -1,0 +1,6 @@
+{
+  "name": "Nearby Help",
+  "description": "India-first local services marketplace connecting people who need help with nearby trusted service providers in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
